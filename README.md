@@ -18,7 +18,8 @@ Following, a brief overview about the project's content is given as it is illust
 8. Implementation of the feature to let the ball *follow the mouse's position*, once the mouse *clicked* the ball.
 9. Introduction of the *random()* function in order to randomize the initial position of the ball as well as randomly changing the color of the ball once it was clicked.
 
-*Note:* Based on the prior experience and knowledge of the audience, it is recommended to introduce the workshop participants to the very basics of the Java programming language, which influenced the development of the Processing programming language.
+In further preparation to this workshop, it is recommended to introduce the workshop participants to the very basics of the Processing programming language. In order to do so, a [brief introduction to Processing](https://github.com/nicoversity/processing_language_intro) has be created accordingly.
+
 
 ## License
 MIT License, see [LICENSE.md](LICENSE.md)
